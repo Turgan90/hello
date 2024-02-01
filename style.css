@@ -1,0 +1,41 @@
+ul{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+}
+.main{
+height: 1000px;
+width: 1000px;
+background-color: burlywood;
+}
+.container1{
+    width: 1000px;
+    height: 100px;
+}
+.containe2{
+    width: 1000px;
+    height: 333px;
+}
+.container3{
+    width: 1000px;
+    height: 333px;
+}
+button{
+    background-color: red;
+}
+img{
+    width: 100px;
+    height: 100px;
+    margin-left: 800px;
+}
+.box1{
+   width: 200px; 
+   height: 100px;
+}
+.box2{
+    width: 200px; 
+    height: 100px;
+margin-left: 500px;
+m
+}
